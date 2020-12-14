@@ -1,4 +1,4 @@
-# Lab
+# Goal and Business Objectives
 Goals:
 -	Là ứng dụng cho máy tính cá nhân, chỉ có nhân viên lễ tân, nhân viên bán hàng, quản lý khách sạn được sử dụng
 -	Quản lý khách sạn:

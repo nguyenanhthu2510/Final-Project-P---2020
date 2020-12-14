@@ -2,7 +2,7 @@
 Goals:
 -	Là ứng dụng cho máy tính cá nhân, chỉ có nhân viên lễ tân, nhân viên bán hàng, quản lý khách sạn được sử dụng
 -	Quản lý khách sạn:
- - - Quản lý thông tin phòng và khách sạn: thêm/ sửa/ xoá thông tin phòng
+- - Quản lý thông tin phòng và khách sạn: thêm/ sửa/ xoá thông tin phòng
  -	Quản lý (xem và tạo) các báo cáo
 -	Nhân viên lễ tân:
  -	Tìm phòng trống
